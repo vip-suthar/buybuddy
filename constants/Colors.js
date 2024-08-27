@@ -1,0 +1,16 @@
+export default colors = {
+  primary: "#E42C52",
+  primary_light: "#E4C0C8",
+  primary_shadow: "#CC2D4E",
+  secondary: "#31C4FB",
+  tertiary: "#AEE8FD",
+  success: "#90EE90",
+  danger: "#FF483E",
+  shadow: "#E7E8EA",
+  warning: "#FBD431",
+  info: "#F8F9FA",
+  light: "#F5F5F5",
+  dark: "#343A3F",
+  muted: "#707981",
+  white: "#FFFFFF",
+};
